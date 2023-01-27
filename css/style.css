@@ -7331,7 +7331,7 @@ h1, h2, h3, h4, h5,
     opacity: 1 !important; }
     @media (min-width: 992px) {
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
-        color: #000; } }
+        color: #fff; } }
     @media (max-width: 767.98px) {
       .ftco-navbar-light .navbar-nav > .nav-item > .nav-link {
         padding-left: 0; } }
@@ -7382,11 +7382,11 @@ h1, h2, h3, h4, h5,
         border-radius: 4px; } }
     .ftco-navbar-light .navbar-nav > .nav-item.cta > a span {
       display: inline-block;
-      color: #2f89fc; }
+      color: #142e4f; }
   .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored span {
-    border-color: #2f89fc; }
+    border-color: #142e4f; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
-    color: #2f89fc; }
+    color: #142e4f; }
   .ftco-navbar-light .navbar-toggler {
     border: none;
     color: rgba(255, 255, 255, 0.5) !important;
