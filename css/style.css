@@ -7284,11 +7284,11 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #2f89fc; }
+  color: #5bc3f5; }
   a:hover, a:focus {
     outline: none !important;
     text-decoration: none;
-    color: #2f89fc; }
+    color: #5bc3f5; }
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
@@ -7297,7 +7297,7 @@ h1, h2, h3, h4, h5,
   font-weight: 400; }
 
 .text-primary {
-  color: #2f89fc !important; }
+  color: #5bc3f5 !important; }
 
 .ftco-navbar-light {
   background: #142e4f !important;
