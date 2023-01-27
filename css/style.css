@@ -7693,16 +7693,16 @@ h1, h2, h3, h4, h5,
     border: 1px solid #142e4f;
     color: #fff; }
     .btn.btn-primary:hover {
-      border: 1px solid #2f89fc;
+      border: 1px solid #5bc3f5;
       background: transparent;
-      color: #2f89fc; }
+      color: #5bc3f5; }
     .btn.btn-primary.btn-outline-primary {
       border: 1px solid #142e4f;
       background: transparent;
       color: #142e4f; }
       .btn.btn-primary.btn-outline-primary:hover {
         border: 1px solid transparent;
-        background: #2f89fc;
+        background: #5bc3f5;
         color: #fff; }
   .btn.btn-outline-white {
     border-color: rgba(255, 255, 255, 0.8);
