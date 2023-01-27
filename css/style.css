@@ -7363,8 +7363,8 @@ h1, h2, h3, h4, h5,
         .ftco-navbar-light .navbar-nav > .nav-item.ftco-seperator:before {
           display: none; } }
   .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
-    color: #000;
-    border: 1px solid #2f89fc;
+    color: #fff;
+    border: 1px solid #142e4f;
     padding-top: .5rem;
     padding-bottom: .5rem;
     padding-left: 20px;
@@ -7525,7 +7525,7 @@ h1, h2, h3, h4, h5,
         width: 100% !important; } }
   .slider-text h1 {
     font-size: 32px;
-    color: #2f89fc;
+    color: #142e4f;
     line-height: 1.2;
     font-weight: 400; }
     @media (max-width: 991.98px) {
@@ -7689,17 +7689,17 @@ h1, h2, h3, h4, h5,
   .btn:hover, .btn:active, .btn:focus {
     outline: none; }
   .btn.btn-primary {
-    background: #2f89fc;
-    border: 1px solid #2f89fc;
+    background: #142e4f;
+    border: 1px solid #142e4f;
     color: #fff; }
     .btn.btn-primary:hover {
       border: 1px solid #2f89fc;
       background: transparent;
       color: #2f89fc; }
     .btn.btn-primary.btn-outline-primary {
-      border: 1px solid #2f89fc;
+      border: 1px solid #142e4f;
       background: transparent;
-      color: #2f89fc; }
+      color: #142e4f; }
       .btn.btn-primary.btn-outline-primary:hover {
         border: 1px solid transparent;
         background: #2f89fc;
