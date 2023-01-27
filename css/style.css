@@ -7364,7 +7364,7 @@ h1, h2, h3, h4, h5,
           display: none; } }
   .ftco-navbar-light .navbar-nav > .nav-item.cta > a {
     color: #fff;
-    border: 1px solid #142e4f;
+    border: 1px solid #2f89fc;
     padding-top: .5rem;
     padding-bottom: .5rem;
     padding-left: 20px;
@@ -7382,7 +7382,7 @@ h1, h2, h3, h4, h5,
         border-radius: 4px; } }
     .ftco-navbar-light .navbar-nav > .nav-item.cta > a span {
       display: inline-block;
-      color: #142e4f; }
+      color: #fff; }
   .ftco-navbar-light .navbar-nav > .nav-item.cta.cta-colored span {
     border-color: #142e4f; }
   .ftco-navbar-light .navbar-nav > .nav-item.active > a {
